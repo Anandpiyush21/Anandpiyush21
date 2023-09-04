@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **projects involving Machine learning, or web deve.**
 
 - ⚡ Fun fact **I think I'm good at badminton**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyush-anand-1915b0146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-anand-1915b0146" height="30" width="40" /></a>
