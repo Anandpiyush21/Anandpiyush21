@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpiyush21" alt="anandpiyush21" /></a> </p>
 
-- 🔭 I’m currently working on **a Database Management Project.**
+- 🔭 I’m currently working on **Machine Learning Projects.**
 
-- 👯 I’m looking to collaborate on **projects involving Machine learning, or web deve.**
+- 👯 I’m looking to collaborate on **projects involving Machine learning, or Web Dev.**
 
 - ⚡ Fun fact **I think I'm good at badminton**
 
