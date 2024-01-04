@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandpiyush21&label=Profile%20views&color=0e75b6&style=flat" alt="anandpiyush21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandpiyush21" alt="anandpiyush21" /></a> </p>
-
 - 🔭 I’m currently working on **Machine Learning Projects.**
 
 - 👯 I’m looking to collaborate on **projects involving Machine learning, or Web Dev.**
